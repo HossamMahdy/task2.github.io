@@ -1,0 +1,46 @@
+.main_div
+{
+    background-image: url("../download.jpeg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sub_div
+{
+    padding: 100px 550px;
+    text-align: center;
+    background-color: rgba(0, 0, 0,.5);
+    height: 800px;
+    
+}
+.third_div
+{
+    padding: 0px 0px 0px 0px;
+    margin: 40px 0px 0px 0px;
+}
+
+#sign
+{
+    padding: 10px 10px;
+    text-decoration: none;
+    border: 3px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: 1000px;
+    border-radius: 10px;
+}
+#contact
+{
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border: 3px solid black;
+    text-align: center;
+    margin: 100px 0px 50px 75px;
+    background-color: white;
+    color: black;
+    font-weight: 1000px;
+    border-radius: 10px;
+}
